@@ -1,0 +1,28 @@
+# Binaries
+.gradle/
+build/
+
+# Runtime
+bin/
+dist/
+run/
+
+# IDE Config
+.settings/
+.classpath
+.project
+
+# Launcher Test Run Directory
+testLauncher/
+
+# OS X
+.DS_Store
+
+# ACT
+.actrc
+.secrets
+
+# Other
+java_pid*.hprof
+*.log
+mockserver_keystore_*
